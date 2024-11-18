@@ -1,0 +1,1129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HospitalSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HospitalSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\015f6105-c002-4d80-ae0d-5d9858cf9cc0Doc4.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\015f6105-c002-4d80-ae0d-5d9858cf9cc0Doc4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\1eb56f2e-5646-4ad2-b5ef-62c7bdf440e58fe241e6-8b38-4b85-b9e9-0866c7746938doc2.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\1eb56f2e-5646-4ad2-b5ef-62c7bdf440e58fe241e6-8b38-4b85-b9e9-0866c7746938doc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\2e7e04ae-1eb5-46b8-9576-b8c969b3a657doc6.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\2e7e04ae-1eb5-46b8-9576-b8c969b3a657doc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\5cfa5752-03c0-44d1-9806-024e4c5ecde6Doc5.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\5cfa5752-03c0-44d1-9806-024e4c5ecde6Doc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\63c83279-03a9-445b-a55d-dd3f62760cfaDoc1.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\63c83279-03a9-445b-a55d-dd3f62760cfaDoc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\6cb907fa-3c33-4589-9606-be41de728c2563c83279-03a9-445b-a55d-dd3f62760cfaDoc1.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\6cb907fa-3c33-4589-9606-be41de728c2563c83279-03a9-445b-a55d-dd3f62760cfaDoc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\730a650f-ac16-4213-a3f4-fe950f26aa5ddoc6.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\730a650f-ac16-4213-a3f4-fe950f26aa5ddoc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\8fe241e6-8b38-4b85-b9e9-0866c7746938doc2.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\8fe241e6-8b38-4b85-b9e9-0866c7746938doc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\DProfile\\ff47a95f-2b79-4a7a-9de3-0944a090a9b7doc3.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\DProfile\\ff47a95f-2b79-4a7a-9de3-0944a090a9b7doc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\28698147-ae7d-462f-b80f-1042a394abd461f59771-36b1-4c34-be36-d7a70325b392profile (1).png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\28698147-ae7d-462f-b80f-1042a394abd461f59771-36b1-4c34-be36-d7a70325b392profile (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\31dd542b-20ab-4292-add2-812973a7a447man.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\31dd542b-20ab-4292-add2-812973a7a447man.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\36cad872-8c56-4dfe-aaf8-dc2883991db00d4abd22-c33b-46d3-9cdd-6270cfc0c342man.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\36cad872-8c56-4dfe-aaf8-dc2883991db00d4abd22-c33b-46d3-9cdd-6270cfc0c342man.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\4891aa08-1884-4c5f-a9c2-8ea9b0aaf357profile (3).png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\4891aa08-1884-4c5f-a9c2-8ea9b0aaf357profile (3).png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\6430962d-2ed9-455f-85e7-46b41f7d6ef2profile (2).png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\6430962d-2ed9-455f-85e7-46b41f7d6ef2profile (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\6d3a6815-ed18-4310-8a4b-5cbb601856cb4f59ff1d-c72f-4a53-86b8-933b58137419bussiness-man.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\6d3a6815-ed18-4310-8a4b-5cbb601856cb4f59ff1d-c72f-4a53-86b8-933b58137419bussiness-man.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\83a2fd9e-cefc-4fb3-a92d-8a8a77f75000profile-picture.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\83a2fd9e-cefc-4fb3-a92d-8a8a77f75000profile-picture.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\b1bd94c7-8416-4500-bd01-d48c95214688bussiness-man.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\b1bd94c7-8416-4500-bd01-d48c95214688bussiness-man.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\Profile\\dff29eec-6d42-468a-842c-d9d4b9734ab0user1.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\Profile\\dff29eec-6d42-468a-842c-d9d4b9734ab0user1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\doctor1.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\doctor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\doctors2.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\doctors2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\0d4abd22-c33b-46d3-9cdd-6270cfc0c342man.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\0d4abd22-c33b-46d3-9cdd-6270cfc0c342man.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\2495eb78-829c-4ab2-b8ef-6b6872a1eb52profile (2).png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\2495eb78-829c-4ab2-b8ef-6b6872a1eb52profile (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\4f59ff1d-c72f-4a53-86b8-933b58137419bussiness-man.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\4f59ff1d-c72f-4a53-86b8-933b58137419bussiness-man.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\61f59771-36b1-4c34-be36-d7a70325b392profile (1).png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\61f59771-36b1-4c34-be36-d7a70325b392profile (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\6d499ded-31c2-4745-ac15-2145cb92771ef7cd23cc-ba82-43a5-8134-f02d29958867profile (3).png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\6d499ded-31c2-4745-ac15-2145cb92771ef7cd23cc-ba82-43a5-8134-f02d29958867profile (3).png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\71d6c73d-4b44-4503-9023-8a00fbe0f2d0Screenshot 2024-09-20 200935.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\71d6c73d-4b44-4503-9023-8a00fbe0f2d0Screenshot 2024-09-20 200935.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\788e25cd-80c7-4fcb-83a8-0a0774816cc2profile-picture.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\788e25cd-80c7-4fcb-83a8-0a0774816cc2profile-picture.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\81feef46-88a0-4c9b-a0ed-28181502a83f8b73d225-5934-4184-aed6-9088d828d959d5950799ddb11fdc90b897369c82eec9.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\81feef46-88a0-4c9b-a0ed-28181502a83f8b73d225-5934-4184-aed6-9088d828d959d5950799ddb11fdc90b897369c82eec9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\8b73d225-5934-4184-aed6-9088d828d959d5950799ddb11fdc90b897369c82eec9.jpg",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\8b73d225-5934-4184-aed6-9088d828d959d5950799ddb11fdc90b897369c82eec9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\b4460e9d-a4a7-4cce-b6e9-59884432bec0Screenshot 2024-09-21 000422.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\b4460e9d-a4a7-4cce-b6e9-59884432bec0Screenshot 2024-09-21 000422.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\c65d8ebb-9fd7-436f-9aea-fdd68704e331bussiness-man.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\c65d8ebb-9fd7-436f-9aea-fdd68704e331bussiness-man.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\ca08aed0-0cf0-45b7-879c-e29ef8be569fScreenshot 2024-09-20 201626.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\ca08aed0-0cf0-45b7-879c-e29ef8be569fScreenshot 2024-09-20 201626.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\f3b76759-7dd0-4c1b-a048-8d027240d193man.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\f3b76759-7dd0-4c1b-a048-8d027240d193man.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\reports\\f7cd23cc-ba82-43a5-8134-f02d29958867profile (3).png",
+      "PackagePath": "staticwebassets\\ProfileImage\\reports\\f7cd23cc-ba82-43a5-8134-f02d29958867profile (3).png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\ProfileImage\\user1.png",
+      "PackagePath": "staticwebassets\\ProfileImage\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\Register.css",
+      "PackagePath": "staticwebassets\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\departments-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\departments-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\departments-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\departments-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\departments-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\departments-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\departments-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\departments-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\departments-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\departments-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\doctors\\doctors-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctors-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\doctors\\doctors-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctors-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\doctors\\doctors-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctors-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\doctors\\doctors-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\doctors\\doctors-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\custom.css",
+      "PackagePath": "staticwebassets\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\forms\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\forms\\appointment.php",
+      "PackagePath": "staticwebassets\\forms\\appointment.php"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\forms\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\jsvaldition\\passwordValidation.js",
+      "PackagePath": "staticwebassets\\jsvaldition\\passwordValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\main.css",
+      "PackagePath": "staticwebassets\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohamed\\Documents\\.Net MVC\\HospitalSystem\\HospitalSystem\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HospitalSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HospitalSystem.props",
+      "PackagePath": "build\\HospitalSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HospitalSystem.props",
+      "PackagePath": "buildMultiTargeting\\HospitalSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HospitalSystem.props",
+      "PackagePath": "buildTransitive\\HospitalSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
